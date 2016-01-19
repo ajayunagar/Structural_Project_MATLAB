@@ -1,0 +1,1 @@
+matlab.io.saveVariablesToScrip(RadioButtonsForLoadingType)
